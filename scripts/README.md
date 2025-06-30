@@ -67,11 +67,9 @@ After running the simulation, the following files will be generated:
   - Coordinates of corner points and periodic displacement vectors
 
 The summary file is named using the `--ID` argument, followed by `simulation_summary.txt`.  
-For example, if `--ID hex2matVoid`, the file will be:
-```text
-hex2matVoidsimulation_summary.txt
+For example, if `--ID hex2matVoid`, the file will be: hex2matVoidsimulation_summary.txt
 
- ---
+---
 ## Example Usage
 
 Run the full homogenization (all load cases):
@@ -83,6 +81,7 @@ Run only test case 0 (e11 loading):
 
 ```bash
 python3 FEHexEEPEORTVoid.py --ID hex2matVoid --test 0
+
 
 ## Helper Functions and Modules
 
