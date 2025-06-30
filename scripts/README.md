@@ -74,12 +74,12 @@ For example, if `--ID hex2matVoid`, the file will be: hex2matVoidsimulation_summ
 
 Run the full homogenization (all load cases):
 
-```bash
+
 python3 FEHexEEPEORTVoid.py --ID hex2matVoid
 
 Run only test case 0 (e11 loading):
 
-```bash
+
 python3 FEHexEEPEORTVoid.py --ID hex2matVoid --test 0
 
 
