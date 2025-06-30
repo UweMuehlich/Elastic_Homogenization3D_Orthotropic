@@ -25,3 +25,13 @@ The main challenges of this simulation are:
 
 
 ```
+## Contributors & Acknowledgements
+
+This work is part of the project **“Advancing mass timber and precast concrete-timber building research by multi-physics and multi-scale engineering computations and large-scale experimental studies”**  
+(**Anillo Tecnológico ANID Chile**), directed by **Erik Saavedra** (Universidad de Santiago de Chile, USACh), in which **Rodolfo Venegas** (Universidad Austral de Chile, UACh) forms part.
+
+### Project Contributors
+
+- Uwe Muhlich (https://www.uach.cl) — Code development, simulations, documentation
+- Rodolfo Gustavo Venegas Castillo  (https://www.uach.cl) — Research collaborator (UACh)
+- Claudio Andrés Caamaño Parra  Comsol simulation development 
