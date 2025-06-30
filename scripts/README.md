@@ -10,13 +10,22 @@ The simulation computes the homogenized (effective) elasticity tensor for a hexa
 
 ## Requirements
 
-- Python ≥ 3.10
-- FEniCSx (compatible version with `dolfinx_mpc`)
-- GMSH ≥ 4.11 (for mesh generation)
-- MPI (e.g. `mpich` or `openmpi`)
+The easiest and most reliable way to run this project is by using the provided Docker container.  
+All necessary dependencies (Python ≥ 3.10, FEniCSx, dolfinx_mpc, GMSH, MPI, PETSc, `petsc4py`, `numpy`, `ufl`) are pre-installed and configured inside the container.
+
+**Recommended:**  
+- [Docker](https://www.docker.com/) installed on your system (version ≥ 20.10 recommended)
+
+**Alternative (advanced):**  
+If you prefer to run the code natively, make sure you have the following installed and properly configured:  
+- Python ≥ 3.10  
+- FEniCSx (compatible version with `dolfinx_mpc`)  
+- GMSH ≥ 4.11 (for mesh generation)  
+- MPI implementation (e.g., MPICH or OpenMPI)  
 - `petsc4py`, `numpy`, `ufl`
 
----
+For most users, **the Docker container is strongly recommended** to avoid version conflicts and ensure reproducibility.
+
 
 ## Main script
 
