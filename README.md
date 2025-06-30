@@ -32,4 +32,4 @@ This work is related to the project **“Advancing mass timber and precast concr
 
 - Uwe Muhlich (https://www.uach.cl) — Code development, simulations, documentation
 - Rodolfo Gustavo Venegas Castillo  (https://www.uach.cl) — Research collaborator (UACh)
-- Claudio Andrés Caamaño Parra  Comsol simulation development 
+- Claudio Andrés Caamaño Parra (https://www.uach.cl)  Comsol simulation development 
