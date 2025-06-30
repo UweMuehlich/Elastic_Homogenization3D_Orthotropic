@@ -1,6 +1,6 @@
 # Elastic Homogenization of a Regular Hexagonal Prism
 
-The Python script FEHexEEPEORTVoid.py runs a FEniCSx-based simulation for determining the effective elastic properties of a hexagonal unit cell composed of two orthotropic materials. The structure is representative of biological or composite microstructures with layered or porous architecture. Periodic boundary conditions are imposed using multi-point constraints (MPC).
+The Python script **FEHexEEPEORTVoid.py** runs a FEniCSx-based simulation for determining the effective elastic properties of a hexagonal unit cell composed of two orthotropic materials. The structure is representative of biological or composite microstructures with layered or porous architecture. Periodic boundary conditions are imposed using multi-point constraints (MPC).
 
 ## Overview
 
