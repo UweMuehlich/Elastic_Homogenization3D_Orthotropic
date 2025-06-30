@@ -23,8 +23,6 @@ The main challenges of this simulation are:
 - `docs/`   : Documentation files
 - `tests/`  : Unit or integration tests
 
-
-```
 ## Contributors & Acknowledgements
 
 This work is part of the project **“Advancing mass timber and precast concrete-timber building research by multi-physics and multi-scale engineering computations and large-scale experimental studies”**  
