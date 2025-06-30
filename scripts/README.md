@@ -18,6 +18,12 @@ The simulation computes the homogenized (effective) elasticity tensor for a hexa
 
 ---
 
+## Main script
+
+FEHexEEPEORTVoid.py
+
+---
+
 ## Input Files
 
 - `hex2matVoid.msh`: GMSH-generated mesh file with facet and volume tags.
