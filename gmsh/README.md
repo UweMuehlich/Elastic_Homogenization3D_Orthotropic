@@ -15,7 +15,7 @@ This repository provides a **parametric Gmsh mesh generator** for a hexagonal pr
 
 ---
 
-![Hexagonal Prism Unit Cell](../docs/images/hex_cell.svg)
+<img src="../docs/images/hex_cell.svg" alt="Hexagonal Prism Unit Cell" width="400"/>
 
 - **Top view:** three concentric hexagonal regions: Outer Ring, Middle Ring, and Inner Core (optional).
 - **Side view:** the extrusion height specified by `--height`.
