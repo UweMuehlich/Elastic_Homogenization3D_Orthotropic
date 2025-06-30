@@ -25,7 +25,7 @@ The main challenges of this simulation are:
 
 ## Contributors & Acknowledgements
 
-This work is part of the project **“Advancing mass timber and precast concrete-timber building research by multi-physics and multi-scale engineering computations and large-scale experimental studies”**  
+This work is related to the project **“Advancing mass timber and precast concrete-timber building research by multi-physics and multi-scale engineering computations and large-scale experimental studies”**  
 (**Anillo Tecnológico ANID Chile**), directed by **Erik Saavedra** (Universidad de Santiago de Chile, USACh), in which **Rodolfo Venegas** (Universidad Austral de Chile, UACh) forms part.
 
 ### Project Contributors
