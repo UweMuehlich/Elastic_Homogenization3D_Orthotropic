@@ -1,6 +1,6 @@
 # Hexagonal Prism Mesh Generator for FEniCSx
 
-This part of the repository provides a **parametric Gmsh mesh generator** for a hexagonal prism unit cell with up to three concentric regions (outer ring, middle ring, inner core). It uses **Gmsh’s Python API** and converts the mesh to XDMF for use with **FEniCSx**.
+This part of the repository provides a **parametric Gmsh mesh generator** for a hexagonal prism unit cell with up to three concentric regions (outer ring, middle ring, inner core). It uses **Gmsh’s Python API**. Apart from the MSH format it provides the mesh as well in  XDMF format.
 
 ## 📌 Main Script
 
