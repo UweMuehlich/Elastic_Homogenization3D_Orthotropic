@@ -31,5 +31,5 @@ This work is related to the project **“Advancing mass timber and precast concr
 ### Repository Contributors
 
 - Uwe Muhlich (https://www.uach.cl) — Code development, simulations, documentation
-- Rodolfo Gustavo Venegas Castillo  (https://www.uach.cl) — Research collaborator (UACh)
+- Rodolfo Gustavo Venegas Castillo  (https://www.uach.cl) — Research collaborator (UACh) on the project Anillo,  ANID, which inspired this work
 - Claudio Andrés Caamaño Parra (https://www.uach.cl)  Comsol simulation development 
